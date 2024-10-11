@@ -1,0 +1,74 @@
+{
+  "uuid": "9f77e42f89b7e8daa66659bf8a94707d",
+  "path": "Offline/Arduino%20Docks",
+  "name": "Arduino Docks",
+  "content": "",
+  "created_at": "2021-03-23 00:33:21",
+  "updated_at": "2023-08-07 16:50:57",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "3729633876c79f37249f43b05154c2d1",
+      "puuid": "9f77e42f89b7e8daa66659bf8a94707d",
+      "title": "Octo_Socket",
+      "filename": "Octo_Socket.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 128,
+        "0476c63fa99e4a998187e5a274bdf1f1": 1,
+        "03c6649cf58448da91dfbbc85ebc70c0": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1691398208,
+      "createTime": 1617301627,
+      "histories": [],
+      "created_at": "2021-04-02 02:27:07",
+      "updated_at": "2023-08-07 16:50:08"
+    },
+    {
+      "uuid": "80e28f745697f5bf4542f9251fc7fcea",
+      "puuid": "9f77e42f89b7e8daa66659bf8a94707d",
+      "title": "Quad_Socket",
+      "filename": "Quad_Socket.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 64,
+        "0476c63fa99e4a998187e5a274bdf1f1": 1,
+        "03c6649cf58448da91dfbbc85ebc70c0": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1691398257,
+      "createTime": 1644518236,
+      "histories": [],
+      "created_at": "2022-02-11 02:37:16",
+      "updated_at": "2023-08-07 16:50:57"
+    }
+  ],
+  "sort": [],
+  "title": "Arduino Docks",
+  "foldername": "Arduino Docks",
+  "schfilename": "Arduino Docks.json",
+  "schfilemtime": 1661446449980.931
+}

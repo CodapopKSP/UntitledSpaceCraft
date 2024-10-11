@@ -1,0 +1,88 @@
+{
+  "uuid": "4d339364240b82388d62ff264aeec803",
+  "path": "Offline/Tools",
+  "name": "Tools",
+  "content": "",
+  "created_at": "2022-04-15 23:16:15",
+  "updated_at": "2022-04-19 23:49:33",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "96b8f61c773846e7b2b77ff5b1bedce8",
+      "puuid": "4d339364240b82388d62ff264aeec803",
+      "title": "SMD_Test_Bench",
+      "filename": "SMD_Test_Bench.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "3d4b864c61334845996db3ad7201cee4": 4,
+        "31a453d5adfc45cea944a6450adf2918": 1,
+        "20e923777eed4788943cb579f88b4b32": 1,
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 16,
+        "f22f57806f1b484c9525ae585bd9e142": 2
+      },
+      "BOM": [],
+      "updateTime": 1650383373,
+      "createTime": 1650035794,
+      "histories": [],
+      "created_at": "2022-04-15 23:16:34",
+      "updated_at": "2022-04-19 23:49:33"
+    },
+    {
+      "uuid": "090a0f9446a89d1092d81da5d4954ba7",
+      "puuid": "b5cbc066714a325e728861dc8b5aa66c",
+      "title": "PCB_Resistor Checker",
+      "filename": "PCB_Resistor Checker.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "31a453d5adfc45cea944a6450adf2918": 2
+      },
+      "BOM": [],
+      "updateTime": 1650222081,
+      "createTime": 1650222081,
+      "histories": [],
+      "created_at": "2022-04-18 03:01:21",
+      "updated_at": "2022-04-18 03:01:21"
+    },
+    {
+      "uuid": "c36e36f8174cde26d4c7887aa9e0a1f0",
+      "puuid": "a856dcc10e89f585d476d1672d3a747c",
+      "title": "PCB_AtTiny Programming Shield v2",
+      "filename": "PCB_AtTiny Programming Shield v2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f22f57806f1b484c9525ae585bd9e142": 1,
+        "0476c63fa99e4a998187e5a274bdf1f1": 1,
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 16,
+        "1bf59dff03ec4233aa077dc7cf0e92a1": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1650222115,
+      "createTime": 1650222115,
+      "histories": [],
+      "created_at": "2022-04-18 03:01:55",
+      "updated_at": "2022-04-18 03:01:55"
+    }
+  ],
+  "sort": [],
+  "title": "Tools",
+  "foldername": "Tools",
+  "schfilename": "Tools.json",
+  "schfilemtime": 1661446450053.9597
+}

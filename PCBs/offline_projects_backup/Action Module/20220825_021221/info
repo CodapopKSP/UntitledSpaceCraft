@@ -1,0 +1,73 @@
+{
+  "uuid": "be6b8bdfaf9e36739109a6ecae550e3c",
+  "path": "Offline/Action%20Module",
+  "name": "Action Module",
+  "content": "",
+  "created_at": "2021-03-20 17:53:27",
+  "updated_at": "2022-08-25 02:12:21",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "66a47cadeb4fe9c742b80d427929be65",
+      "puuid": "be6b8bdfaf9e36739109a6ecae550e3c",
+      "title": "Action_Groups_Module",
+      "filename": "Action_Groups_Module.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 56,
+        "1beaf95d8867423b96e05cd052cb2c45": 4,
+        "1bf59dff03ec4233aa077dc7cf0e92a1": 20,
+        "2f7a4f1c2cb546eda700e2aceab80fc7": 2,
+        "a109bca3cac54607a3ba339292451616": 1,
+        "114291aa00274e81acee6c9900b25672": 1,
+        "de8599bb99f14253b8909bb7e603a704": 2,
+        "f8eca159cd18407f9d5df374a1c2badf": 6,
+        "61ca4390f2284e11848b2ab1e8ce9766": 1
+      },
+      "BOM": [],
+      "updateTime": 1658946664,
+      "createTime": 1616264907,
+      "histories": [],
+      "created_at": "2021-03-21 02:28:27",
+      "updated_at": "2022-07-28 02:31:04"
+    },
+    {
+      "uuid": "8e6702c0871c60be58bc89a979f2db4b",
+      "puuid": "be6b8bdfaf9e36739109a6ecae550e3c",
+      "title": "Action_Groups_Module_(TH)",
+      "filename": "Action_Groups_Module_(TH).json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f2561f0fa47346d3a02d341f9e29ef9e": 4,
+        "f22f57806f1b484c9525ae585bd9e142": 1,
+        "61a55cacd5b14f109a68b11c09571ea3": 2,
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 56
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1661364741,
+      "createTime": 1661279850,
+      "histories": [],
+      "created_at": "2022-08-24 02:37:30",
+      "updated_at": "2022-08-25 02:12:21"
+    }
+  ],
+  "sort": [],
+  "title": "Action Module",
+  "foldername": "Action Module",
+  "schfilename": "Action_module.json",
+  "schfilemtime": 1649871839287.8923
+}

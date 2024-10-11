@@ -1,0 +1,75 @@
+{
+  "uuid": "c965c47c6c029745a58faa15a663a90a",
+  "path": "Offline/Digital%20Telemetry%20Module",
+  "name": "Digital Telemetry Module",
+  "content": "",
+  "created_at": "2023-03-04 18:06:51",
+  "updated_at": "2023-05-10 00:23:08",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "41a29f68c7eff6c9b46e33b36689fa58",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "b0248eb51e084227889f2cb84eab79c4": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1k",
+          2,
+          "R0603",
+          "R1,R2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ]
+      ],
+      "updateTime": 1677924438,
+      "createTime": 1677924411,
+      "histories": [],
+      "created_at": "2023-03-04 18:06:51",
+      "updated_at": "2023-03-04 18:07:18"
+    },
+    {
+      "uuid": "b03de50afee8bdc15a2b1a7b0e7b2a20",
+      "puuid": "c965c47c6c029745a58faa15a663a90a",
+      "title": "PCB_Digital Telemetry Module",
+      "filename": "PCB_Digital Telemetry Module.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "0476c63fa99e4a998187e5a274bdf1f1": 1,
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 16,
+        "f22f57806f1b484c9525ae585bd9e142": 1
+      },
+      "BOM": [],
+      "updateTime": 1683649388,
+      "createTime": 1677925423,
+      "histories": [],
+      "created_at": "2023-03-04 18:23:43",
+      "updated_at": "2023-05-10 00:23:08"
+    }
+  ],
+  "sort": [],
+  "title": "Digital Telemetry Module",
+  "foldername": "Digital Telemetry Module",
+  "schfilename": "Digital Telemetry Module.json",
+  "schfilemtime": 1677924438263
+}

@@ -1,0 +1,69 @@
+{
+  "uuid": "9383b3373c2160f7b6def847a6f689ba",
+  "path": "Offline/Navigation(Time)%20Module",
+  "name": "Navigation(Time) Module",
+  "content": "",
+  "created_at": "2023-03-22 20:36:30",
+  "updated_at": "2023-03-22 21:12:46",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "e03c9fca3fe7403176bd44a3b2145d3a",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1679488591,
+      "createTime": 1679488591,
+      "histories": [],
+      "created_at": "2023-03-22 20:36:31",
+      "updated_at": "2023-03-22 20:36:31"
+    },
+    {
+      "uuid": "dab7bb52fcca8367779ef48769306000",
+      "puuid": "32166c8658bea7c5c1158f8412b6860d",
+      "title": "Navigation_Time_Module_(TH) copy",
+      "filename": "Navigation_Time_Module_(TH) copy.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f22f57806f1b484c9525ae585bd9e142": 1,
+        "f2561f0fa47346d3a02d341f9e29ef9e": 1,
+        "61a55cacd5b14f109a68b11c09571ea3": 2,
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 16
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1679490766,
+      "createTime": 1679488609,
+      "histories": [],
+      "created_at": "2023-03-22 20:36:49",
+      "updated_at": "2023-03-22 21:12:46"
+    }
+  ],
+  "sort": [],
+  "title": "Navigation(Time) Module",
+  "foldername": "Navigation(Time) Module",
+  "schfilename": "Navigation(Time) Module.json",
+  "schfilemtime": 1679488591086
+}

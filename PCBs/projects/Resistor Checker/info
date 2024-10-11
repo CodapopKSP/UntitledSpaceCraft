@@ -1,0 +1,54 @@
+{
+  "uuid": "b5cbc066714a325e728861dc8b5aa66c",
+  "path": "Offline/Resistor%20Checker",
+  "name": "Resistor Checker",
+  "content": "",
+  "created_at": "2022-04-14 01:57:56",
+  "updated_at": "2022-04-18 03:01:25",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "3cec7df3272ff218ad87c3946be4332f",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "dbfa7da092bc44faa13a86aaa683160b": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1u",
+          1,
+          "RAD-0.1",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ea82fbe34d7840de9fdcf3145ab199ef",
+            "uuid": "dbfa7da092bc44faa13a86aaa683160b"
+          }
+        ]
+      ],
+      "updateTime": 1649872825,
+      "createTime": 1649872676,
+      "histories": [],
+      "created_at": "2022-04-14 01:57:56",
+      "updated_at": "2022-04-14 02:00:25"
+    }
+  ],
+  "sort": [],
+  "title": "Resistor Checker",
+  "foldername": "Resistor Checker",
+  "schfilename": "Resistor Checker.json",
+  "schfilemtime": 1649872825765
+}

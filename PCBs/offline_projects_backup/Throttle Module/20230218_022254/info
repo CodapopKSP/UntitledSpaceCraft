@@ -1,0 +1,75 @@
+{
+  "uuid": "0b45f69bb1bf69214f634f74763437fc",
+  "path": "Offline/Throttle%20Module",
+  "name": "Throttle Module",
+  "content": "",
+  "created_at": "2023-02-17 23:36:03",
+  "updated_at": "2023-02-18 02:22:54",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "98c70216519ff89370c0e8c01f3af2a9",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "b0248eb51e084227889f2cb84eab79c4": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1k",
+          1,
+          "R0603",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b0248eb51e084227889f2cb84eab79c4"
+          }
+        ]
+      ],
+      "updateTime": 1676648230,
+      "createTime": 1676648163,
+      "histories": [],
+      "created_at": "2023-02-17 23:36:03",
+      "updated_at": "2023-02-17 23:37:10"
+    },
+    {
+      "uuid": "d44792693a51261176ffe42ed269446f",
+      "puuid": "0b45f69bb1bf69214f634f74763437fc",
+      "title": "PCB_Throttle Module",
+      "filename": "PCB_Throttle Module.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 16,
+        "f22f57806f1b484c9525ae585bd9e142": 1,
+        "61a55cacd5b14f109a68b11c09571ea3": 1
+      },
+      "BOM": [],
+      "updateTime": 1676658174,
+      "createTime": 1676648251,
+      "histories": [],
+      "created_at": "2023-02-17 23:37:31",
+      "updated_at": "2023-02-18 02:22:54"
+    }
+  ],
+  "sort": [],
+  "title": "Throttle Module",
+  "foldername": "Throttle Module",
+  "schfilename": "Throttle Module.json",
+  "schfilemtime": 1676648230034
+}

@@ -1,0 +1,87 @@
+{
+  "uuid": "265f932d5b37c4d5571bcf3f53982bc3",
+  "path": "Offline/Navigation%20Module",
+  "name": "Navigation Module",
+  "content": "",
+  "created_at": "2021-05-05 00:41:49",
+  "updated_at": "2022-08-26 23:05:26",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "d25c16251d7aee4b070ee3f486a766f2",
+      "puuid": "265f932d5b37c4d5571bcf3f53982bc3",
+      "title": "Navigation_Module",
+      "filename": "Navigation_Module.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "1beaf95d8867423b96e05cd052cb2c45": 1,
+        "de8599bb99f14253b8909bb7e603a704": 1,
+        "61ca4390f2284e11848b2ab1e8ce9766": 1,
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 16,
+        "f8eca159cd18407f9d5df374a1c2badf": 2,
+        "2f7a4f1c2cb546eda700e2aceab80fc7": 1,
+        "1bf59dff03ec4233aa077dc7cf0e92a1": 10
+      },
+      "BOM": [],
+      "updateTime": 1658945826,
+      "createTime": 1620146748,
+      "histories": [],
+      "created_at": "2021-05-05 00:45:48",
+      "updated_at": "2022-07-28 02:17:06"
+    },
+    {
+      "uuid": "5bcb2724d007f0b10e32388b4f63e706",
+      "puuid": "265f932d5b37c4d5571bcf3f53982bc3",
+      "title": "Navigation_Module_(TH)",
+      "filename": "Navigation_Module_(TH).json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f22f57806f1b484c9525ae585bd9e142": 1,
+        "61a55cacd5b14f109a68b11c09571ea3": 1,
+        "f2561f0fa47346d3a02d341f9e29ef9e": 1,
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 16
+      },
+      "BOM": [],
+      "updateTime": 1661526326,
+      "createTime": 1649591516,
+      "histories": [],
+      "created_at": "2022-04-10 19:51:56",
+      "updated_at": "2022-08-26 23:05:26"
+    },
+    {
+      "uuid": "1b4c763298dc3bdbea62bcb2c2692443",
+      "puuid": "265f932d5b37c4d5571bcf3f53982bc3",
+      "title": "Navigation_Module_(STH)",
+      "filename": "Navigation_Module_(STH).json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "de8599bb99f14253b8909bb7e603a704": 1,
+        "1bf59dff03ec4233aa077dc7cf0e92a1": 4,
+        "f22f57806f1b484c9525ae585bd9e142": 1,
+        "31a453d5adfc45cea944a6450adf2918": 1,
+        "f2561f0fa47346d3a02d341f9e29ef9e": 1,
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 16
+      },
+      "BOM": [],
+      "updateTime": 1658945928,
+      "createTime": 1650292018,
+      "histories": [],
+      "created_at": "2022-04-18 22:26:58",
+      "updated_at": "2022-07-28 02:18:48"
+    }
+  ],
+  "sort": [],
+  "title": "Navigation Module",
+  "foldername": "Navigation Module",
+  "schfilename": "Navigation Module.json",
+  "schfilemtime": 1661446450030.4307
+}

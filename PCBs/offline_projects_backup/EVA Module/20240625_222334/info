@@ -1,0 +1,133 @@
+{
+  "uuid": "00646361125bcb12d061fe9274bcfb5c",
+  "path": "Offline/EVA%20Module",
+  "name": "EVA Module",
+  "content": "",
+  "created_at": "2021-03-20 17:53:27",
+  "updated_at": "2024-06-25 22:23:34",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "e8e293e50de2b24c54199ab3b1555687",
+      "puuid": "be6b8bdfaf9e36739109a6ecae550e3c",
+      "title": "EVA Module",
+      "filename": "EVA Module.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "114291aa00274e81acee6c9900b25672": 1,
+        "1beaf95d8867423b96e05cd052cb2c45": 4,
+        "1bf59dff03ec4233aa077dc7cf0e92a1": 21,
+        "de8599bb99f14253b8909bb7e603a704": 2,
+        "2f7a4f1c2cb546eda700e2aceab80fc7": 2,
+        "a109bca3cac54607a3ba339292451616": 1,
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 16,
+        "f8eca159cd18407f9d5df374a1c2badf": 6,
+        "61ca4390f2284e11848b2ab1e8ce9766": 1
+      },
+      "BOM": [],
+      "updateTime": 1676747781,
+      "createTime": 1618065029,
+      "histories": [],
+      "created_at": "2021-04-10 22:30:29",
+      "updated_at": "2023-02-19 03:16:21"
+    },
+    {
+      "uuid": "b2ce8209d97149941c4dd6defac34f25",
+      "puuid": "00646361125bcb12d061fe9274bcfb5c",
+      "title": "EVA_Module_(TH)",
+      "filename": "EVA_Module_(TH).json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f2561f0fa47346d3a02d341f9e29ef9e": 4,
+        "61a55cacd5b14f109a68b11c09571ea3": 2,
+        "f22f57806f1b484c9525ae585bd9e142": 1,
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 16
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1719065009,
+      "createTime": 1661451213,
+      "histories": [],
+      "created_at": "2022-08-26 02:13:33",
+      "updated_at": "2024-06-22 22:03:29"
+    },
+    {
+      "uuid": "c3ed10d411447af2061d9c1d6f185cb9",
+      "puuid": "00646361125bcb12d061fe9274bcfb5c",
+      "title": "Utility_Navigation_Module_(TH)",
+      "filename": "Utility_Navigation_Module_(TH).json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f2561f0fa47346d3a02d341f9e29ef9e": 3,
+        "61a55cacd5b14f109a68b11c09571ea3": 2,
+        "f22f57806f1b484c9525ae585bd9e142": 1,
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 16
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1719065034,
+      "createTime": 1710944387,
+      "histories": [],
+      "created_at": "2024-03-20 22:19:47",
+      "updated_at": "2024-06-22 22:03:54"
+    },
+    {
+      "uuid": "0727a38046edf73f4497a88ea1b25aa7",
+      "puuid": "00646361125bcb12d061fe9274bcfb5c",
+      "title": "Utility_Time_Module_(TH)",
+      "filename": "Utility_Time_Module_(TH).json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f2561f0fa47346d3a02d341f9e29ef9e": 3,
+        "61a55cacd5b14f109a68b11c09571ea3": 2,
+        "f22f57806f1b484c9525ae585bd9e142": 1,
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 16
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1719325414,
+      "createTime": 1711039970,
+      "histories": [],
+      "created_at": "2024-03-22 00:52:50",
+      "updated_at": "2024-06-25 22:23:34"
+    }
+  ],
+  "sort": [],
+  "title": "EVA Module",
+  "foldername": "EVA Module",
+  "schfilename": "EVA_module.json",
+  "schfilemtime": 1661446450014.931
+}

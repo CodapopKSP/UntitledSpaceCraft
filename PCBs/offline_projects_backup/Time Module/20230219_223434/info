@@ -1,0 +1,103 @@
+{
+  "uuid": "32166c8658bea7c5c1158f8412b6860d",
+  "path": "Offline/Time%20Module",
+  "name": "Time Module",
+  "content": "",
+  "created_at": "2021-05-04 01:35:01",
+  "updated_at": "2023-02-19 22:34:34",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "868fe83cc8b0c4bfccccbe0a8923741c",
+      "puuid": "32166c8658bea7c5c1158f8412b6860d",
+      "title": "Time_Module_(TH)",
+      "filename": "Time_Module_(TH).json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f22f57806f1b484c9525ae585bd9e142": 1,
+        "f2561f0fa47346d3a02d341f9e29ef9e": 1,
+        "61a55cacd5b14f109a68b11c09571ea3": 2,
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 16
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1676817274,
+      "createTime": 1649358432,
+      "histories": [],
+      "created_at": "2022-04-08 03:07:12",
+      "updated_at": "2023-02-19 22:34:34"
+    },
+    {
+      "uuid": "17763f26c55e15ef81c8a20fbd7e4a0a",
+      "title": "Time_Module",
+      "filename": "Time_Module.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1676817060,
+      "createTime": 1650291381,
+      "histories": [],
+      "created_at": "2022-04-18 22:16:21",
+      "updated_at": "2023-02-19 22:31:00",
+      "components": {
+        "1beaf95d8867423b96e05cd052cb2c45": 1,
+        "1bf59dff03ec4233aa077dc7cf0e92a1": 9,
+        "de8599bb99f14253b8909bb7e603a704": 2,
+        "61ca4390f2284e11848b2ab1e8ce9766": 1,
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 16,
+        "a109bca3cac54607a3ba339292451616": 1,
+        "2f7a4f1c2cb546eda700e2aceab80fc7": 2,
+        "114291aa00274e81acee6c9900b25672": 1,
+        "f8eca159cd18407f9d5df374a1c2badf": 3
+      }
+    },
+    {
+      "uuid": "b9648df5a705b0927f3aef4ec8ab3d0e",
+      "puuid": "32166c8658bea7c5c1158f8412b6860d",
+      "title": "Time_Module_(STH)",
+      "filename": "Time_Module_(STH).json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "de8599bb99f14253b8909bb7e603a704": 2,
+        "881d017e96d048aaa94a5166ad55a273": 1,
+        "1bf59dff03ec4233aa077dc7cf0e92a1": 8,
+        "f22f57806f1b484c9525ae585bd9e142": 1,
+        "f2561f0fa47346d3a02d341f9e29ef9e": 1,
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 16
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1676817131,
+      "createTime": 1650305154,
+      "histories": [],
+      "created_at": "2022-04-19 02:05:54",
+      "updated_at": "2023-02-19 22:32:11"
+    }
+  ],
+  "sort": [],
+  "title": "Time Module",
+  "foldername": "Time Module",
+  "schfilename": "Time Module.json",
+  "schfilemtime": 1661446554416.9326
+}

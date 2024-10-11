@@ -1,0 +1,67 @@
+{
+  "uuid": "a856dcc10e89f585d476d1672d3a747c",
+  "path": "Offline/AtTiny%20Programming%20Shield",
+  "name": "AtTiny Programming Shield",
+  "content": "",
+  "created_at": "2022-03-26 17:13:19",
+  "updated_at": "2023-05-01 15:06:03",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "e564cb3c680196d8b1089427cc5f74fe",
+      "puuid": "a856dcc10e89f585d476d1672d3a747c",
+      "title": "PCB_AtTiny Programming Shield",
+      "filename": "PCB_AtTiny Programming Shield.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f22f57806f1b484c9525ae585bd9e142": 1,
+        "0476c63fa99e4a998187e5a274bdf1f1": 1,
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 16,
+        "1bf59dff03ec4233aa077dc7cf0e92a1": 1
+      },
+      "BOM": [],
+      "updateTime": 1648317650,
+      "createTime": 1648316484,
+      "histories": [],
+      "created_at": "2022-03-27 01:41:24",
+      "updated_at": "2022-03-27 02:00:50"
+    },
+    {
+      "uuid": "e409c4a355023f935d72659082a7472e",
+      "puuid": "a856dcc10e89f585d476d1672d3a747c",
+      "title": "PCB_AtTiny Programming Shield v2",
+      "filename": "PCB_AtTiny Programming Shield v2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f22f57806f1b484c9525ae585bd9e142": 1,
+        "0476c63fa99e4a998187e5a274bdf1f1": 1,
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 16
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1682924763,
+      "createTime": 1649244912,
+      "histories": [],
+      "created_at": "2022-04-06 19:35:12",
+      "updated_at": "2023-05-01 15:06:03"
+    }
+  ],
+  "sort": [],
+  "title": "AtTiny Programming Shield",
+  "foldername": "AtTiny Programming Shield",
+  "schfilename": "AtTiny Programming Shield.json",
+  "schfilemtime": 1661446449987.931
+}

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="26mm"
+   height="37mm"
+   viewBox="0 0 26 37"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="switch_guard_holes.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="125.28021"
+       y="-133.77708"
+       width="42.994789"
+       height="13.096875"
+       id="rect1003-6" />
+    <rect
+       x="125.28021"
+       y="-133.77708"
+       width="42.994789"
+       height="13.096875"
+       id="rect1058" />
+    <rect
+       x="125.28021"
+       y="-133.77708"
+       width="42.994789"
+       height="13.096875"
+       id="rect1003-6-9" />
+    <rect
+       x="125.28021"
+       y="-133.77708"
+       width="42.994789"
+       height="13.096875"
+       id="rect1061" />
+    <rect
+       x="125.28021"
+       y="-133.77708"
+       width="42.994789"
+       height="13.096875"
+       id="rect1003-6-1-8" />
+    <rect
+       x="125.28021"
+       y="-133.77708"
+       width="42.994789"
+       height="13.096875"
+       id="rect1120" />
+    <rect
+       x="125.28021"
+       y="-133.77708"
+       width="42.994789"
+       height="13.096875"
+       id="rect1003-6-1-8-4-6" />
+    <rect
+       x="125.28021"
+       y="-133.77708"
+       width="42.994789"
+       height="13.096875"
+       id="rect1136" />
+    <rect
+       x="125.28021"
+       y="-133.77708"
+       width="42.994789"
+       height="13.096875"
+       id="rect1003-6-1-8-4-6-1" />
+    <rect
+       x="125.28021"
+       y="-133.77708"
+       width="42.994789"
+       height="13.096875"
+       id="rect1139" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="163.75236"
+     inkscape:cy="110.69566"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     showguides="false"
+     inkscape:window-width="2283"
+     inkscape:window-height="1496"
+     inkscape:window-x="1532"
+     inkscape:window-y="316"
+     inkscape:window-maximized="0"
+     inkscape:snap-text-baseline="true"
+     units="mm"
+     inkscape:document-rotation="0"
+     inkscape:snap-object-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid19" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="guide"
+     style="display:inline"
+     transform="translate(0,-87)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1736"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,-351)"><flowRegion
+         id="flowRegion1738"><rect
+           id="rect1740"
+           width="191.62593"
+           height="44.547726"
+           x="408.00061"
+           y="437.41507" /></flowRegion><flowPara
+         id="flowPara1742">SASSAS</flowPara></flowRoot>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264583"
+       x="159.73878"
+       y="-201.7784"
+       id="text1746" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1748"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,-351)"><flowRegion
+         id="flowRegion1750"><rect
+           id="rect1752"
+           width="258.80109"
+           height="51.618793"
+           x="675.28699"
+           y="423.27292" /></flowRegion><flowPara
+         id="flowPara1754" /></flowRoot>
+    <g
+       id="g1193" />
+    <g
+       id="g5759"
+       style="display:inline"
+       transform="translate(-447.68034,-235.90356)">
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.0495886;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+         d="m 456.28911,335.04842 c 0,0.81579 -0.66146,1.47588 -1.47584,1.47588 -0.81443,0 -1.47451,-0.66009 -1.47451,-1.47588 0,-0.81442 0.66008,-1.4745 1.47451,-1.4745 0.81438,0 1.47584,0.66008 1.47584,1.4745 z m 0,0"
+         id="path5554" />
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.0495886;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+         d="m 469.28816,335.04842 c 0,0.81579 -0.66008,1.47588 -1.4745,1.47588 -0.81443,0 -1.47588,-0.66009 -1.47588,-1.47588 0,-0.81442 0.66145,-1.4745 1.47588,-1.4745 0.81442,0 1.4745,0.66008 1.4745,1.4745 z m 0,0"
+         id="path5556" />
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.0495886;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+         d="m 469.28816,343.04931 c 0,0.81442 -0.66008,1.4745 -1.4745,1.4745 -0.81443,0 -1.47588,-0.66008 -1.47588,-1.4745 0,-0.8158 0.66145,-1.47588 1.47588,-1.47588 0.81442,0 1.4745,0.66008 1.4745,1.47588 z m 0,0"
+         id="path5558" />
+      <path
+         style="fill:none;stroke:#0000ff;stroke-width:0.0495886;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+         d="m 456.28911,343.04931 c 0,0.81442 -0.66146,1.4745 -1.47584,1.4745 -0.81443,0 -1.47451,-0.66008 -1.47451,-1.4745 0,-0.8158 0.66008,-1.47588 1.47451,-1.47588 0.81438,0 1.47584,0.66008 1.47584,1.47588 z m 0,0"
+         id="path5560" />
+    </g>
+  </g>
+</svg>

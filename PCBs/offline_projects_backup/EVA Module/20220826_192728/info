@@ -1,0 +1,73 @@
+{
+  "uuid": "00646361125bcb12d061fe9274bcfb5c",
+  "path": "Offline/EVA%20Module",
+  "name": "EVA Module",
+  "content": "",
+  "created_at": "2021-03-20 17:53:27",
+  "updated_at": "2022-08-26 19:27:28",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "e8e293e50de2b24c54199ab3b1555687",
+      "puuid": "be6b8bdfaf9e36739109a6ecae550e3c",
+      "title": "EVA Module",
+      "filename": "EVA Module.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "114291aa00274e81acee6c9900b25672": 1,
+        "1beaf95d8867423b96e05cd052cb2c45": 4,
+        "1bf59dff03ec4233aa077dc7cf0e92a1": 21,
+        "de8599bb99f14253b8909bb7e603a704": 2,
+        "2f7a4f1c2cb546eda700e2aceab80fc7": 2,
+        "a109bca3cac54607a3ba339292451616": 1,
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 16,
+        "f8eca159cd18407f9d5df374a1c2badf": 6,
+        "61ca4390f2284e11848b2ab1e8ce9766": 1
+      },
+      "BOM": [],
+      "updateTime": 1658945989,
+      "createTime": 1618065029,
+      "histories": [],
+      "created_at": "2021-04-10 22:30:29",
+      "updated_at": "2022-07-28 02:19:49"
+    },
+    {
+      "uuid": "b2ce8209d97149941c4dd6defac34f25",
+      "puuid": "00646361125bcb12d061fe9274bcfb5c",
+      "title": "EVA_Module_(TH)",
+      "filename": "EVA_Module_(TH).json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f2561f0fa47346d3a02d341f9e29ef9e": 4,
+        "61a55cacd5b14f109a68b11c09571ea3": 2,
+        "f22f57806f1b484c9525ae585bd9e142": 1,
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 16
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1661513248,
+      "createTime": 1661451213,
+      "histories": [],
+      "created_at": "2022-08-26 02:13:33",
+      "updated_at": "2022-08-26 19:27:28"
+    }
+  ],
+  "sort": [],
+  "title": "EVA Module",
+  "foldername": "EVA Module",
+  "schfilename": "EVA_module.json",
+  "schfilemtime": 1661446450014.931
+}

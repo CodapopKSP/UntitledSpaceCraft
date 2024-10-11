@@ -1,0 +1,109 @@
+{
+  "path": "Offline/Control%20Systems%20Module",
+  "foldername": "Control Systems Module",
+  "name": "Control Systems Module",
+  "title": "Control Systems Module",
+  "uuid": "88c681a9a38d9d0d34b5b4017c0ed470",
+  "created_at": "2021-05-04 01:29:50",
+  "updated_at": "2022-04-27 02:57:14",
+  "documents": [
+    {
+      "uuid": "7fcc8a8afed5e968b87f0b7aa914c898",
+      "title": "Control_Systems_Module",
+      "filename": "Control_Systems_Module.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1649598397,
+      "createTime": 1619261474,
+      "histories": [],
+      "created_at": "2021-04-24 18:51:14",
+      "updated_at": "2022-04-10 21:46:37",
+      "components": {
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 60,
+        "1beaf95d8867423b96e05cd052cb2c45": 4,
+        "1bf59dff03ec4233aa077dc7cf0e92a1": 22,
+        "2f7a4f1c2cb546eda700e2aceab80fc7": 2,
+        "a109bca3cac54607a3ba339292451616": 1,
+        "114291aa00274e81acee6c9900b25672": 1,
+        "de8599bb99f14253b8909bb7e603a704": 2,
+        "f8eca159cd18407f9d5df374a1c2badf": 6,
+        "61ca4390f2284e11848b2ab1e8ce9766": 1
+      }
+    },
+    {
+      "uuid": "e74ce7a508b97a6481ddf39a74bf9c46",
+      "title": "Control_Systems_Module_(STH)",
+      "filename": "Control_Systems_Module_(STH).json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1649958631,
+      "createTime": 1649951352,
+      "histories": [],
+      "created_at": "2022-04-14 23:49:12",
+      "updated_at": "2022-04-15 01:50:31",
+      "components": {
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 60,
+        "1beaf95d8867423b96e05cd052cb2c45": 4,
+        "1bf59dff03ec4233aa077dc7cf0e92a1": 30,
+        "f8eca159cd18407f9d5df374a1c2badf": 4,
+        "881d017e96d048aaa94a5166ad55a273": 1,
+        "f22f57806f1b484c9525ae585bd9e142": 1,
+        "61a55cacd5b14f109a68b11c09571ea3": 2
+      }
+    },
+    {
+      "uuid": "f1ada8538a87a50c48d08b7f5b18f900",
+      "title": "Control_Systems_Module_(SSTH)",
+      "filename": "Control_Systems_Module_(SSTH).json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1649958604,
+      "createTime": 1649955444,
+      "histories": [],
+      "created_at": "2022-04-15 00:57:24",
+      "updated_at": "2022-04-15 01:50:04",
+      "components": {
+        "1bf59dff03ec4233aa077dc7cf0e92a1": 30,
+        "881d017e96d048aaa94a5166ad55a273": 1,
+        "f22f57806f1b484c9525ae585bd9e142": 1,
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 60,
+        "1beaf95d8867423b96e05cd052cb2c45": 4,
+        "de8599bb99f14253b8909bb7e603a704": 2,
+        "f8eca159cd18407f9d5df374a1c2badf": 6
+      }
+    },
+    {
+      "uuid": "a6ae32b65d6b1c12f80e41c6a6a1d716",
+      "title": "Control_Systems_Module_(TH)",
+      "filename": "Control_Systems_Module_(TH).json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1650999434,
+      "createTime": 1650827185,
+      "histories": [],
+      "created_at": "2022-04-25 03:06:25",
+      "updated_at": "2022-04-27 02:57:14",
+      "components": {
+        "f2561f0fa47346d3a02d341f9e29ef9e": 4,
+        "1bf59dff03ec4233aa077dc7cf0e92a1": 8,
+        "881d017e96d048aaa94a5166ad55a273": 1,
+        "f22f57806f1b484c9525ae585bd9e142": 1,
+        "61a55cacd5b14f109a68b11c09571ea3": 2,
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 60
+      }
+    }
+  ],
+  "content": "",
+  "stick": "",
+  "sort": [],
+  "schfilename": "Control Systems module.json",
+  "schfilemtime": 1649951161087.836
+}

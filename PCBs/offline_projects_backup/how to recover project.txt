@@ -1,0 +1,13 @@
+How to recover project from backup
+
+1. Project Offline Mode:
+1) Close the desktop client
+2) Copy and paste a project backup folder to "projects" folder
+3) Modify this backup folder name as you want
+4) Delete the "info" file in this backup folder
+5) Open desktop client, the project will be added into project list automatically
+
+2. Team Work Mode:
+1) Copy and paste a project backup folder to your desktop
+2) Open the desktop client editor, create a new project, and then open the backup "json" files at desktop folder via: File - Open - EasyEDA...
+3) Save your files into new project

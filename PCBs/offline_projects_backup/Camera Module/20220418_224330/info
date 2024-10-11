@@ -1,0 +1,89 @@
+{
+  "uuid": "05422d267523cf0fa85ef2fc02a45cf0",
+  "path": "Offline/Camera%20Module",
+  "name": "Camera Module",
+  "content": "",
+  "created_at": "2021-04-11 22:11:28",
+  "updated_at": "2022-04-18 22:43:30",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "47373c7b86be672716d8c780c2a82078",
+      "puuid": "05422d267523cf0fa85ef2fc02a45cf0",
+      "title": "Camera_Module",
+      "filename": "Camera_Module.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "1beaf95d8867423b96e05cd052cb2c45": 2,
+        "1bf59dff03ec4233aa077dc7cf0e92a1": 10,
+        "de8599bb99f14253b8909bb7e603a704": 1,
+        "2f7a4f1c2cb546eda700e2aceab80fc7": 1,
+        "f8eca159cd18407f9d5df374a1c2badf": 3,
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 16,
+        "61ca4390f2284e11848b2ab1e8ce9766": 1
+      },
+      "BOM": [],
+      "updateTime": 1650292848,
+      "createTime": 1618150859,
+      "histories": [],
+      "created_at": "2021-04-11 22:20:59",
+      "updated_at": "2022-04-18 22:40:48"
+    },
+    {
+      "uuid": "9d93c692a082eb427c265ae71efc0476",
+      "puuid": "05422d267523cf0fa85ef2fc02a45cf0",
+      "title": "Camera_Module_(TH)",
+      "filename": "Camera_Module_(TH).json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 16,
+        "f22f57806f1b484c9525ae585bd9e142": 1,
+        "61a55cacd5b14f109a68b11c09571ea3": 1,
+        "f2561f0fa47346d3a02d341f9e29ef9e": 2,
+        "31a453d5adfc45cea944a6450adf2918": 1,
+        "1bf59dff03ec4233aa077dc7cf0e92a1": 4
+      },
+      "BOM": [],
+      "updateTime": 1649606332,
+      "createTime": 1649603363,
+      "histories": [],
+      "created_at": "2022-04-10 23:09:23",
+      "updated_at": "2022-04-10 23:58:52"
+    },
+    {
+      "uuid": "564243b194ce78a75589a855e3aa962c",
+      "puuid": "05422d267523cf0fa85ef2fc02a45cf0",
+      "title": "Camera_Module_(STH)",
+      "filename": "Camera_Module_(STH).json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f22f57806f1b484c9525ae585bd9e142": 1,
+        "f2561f0fa47346d3a02d341f9e29ef9e": 2,
+        "31a453d5adfc45cea944a6450adf2918": 1,
+        "1bf59dff03ec4233aa077dc7cf0e92a1": 4,
+        "abb9a196ce9d4627a5c822ef9e6cdb5c": 16,
+        "de8599bb99f14253b8909bb7e603a704": 1
+      },
+      "BOM": [],
+      "updateTime": 1650293010,
+      "createTime": 1650292809,
+      "histories": [],
+      "created_at": "2022-04-18 22:40:09",
+      "updated_at": "2022-04-18 22:43:30"
+    }
+  ],
+  "sort": [],
+  "title": "Camera Module",
+  "foldername": "Camera Module",
+  "schfilename": "Camera Module.json",
+  "schfilemtime": 1649871865570.0334
+}
