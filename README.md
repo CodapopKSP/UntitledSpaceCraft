@@ -22,4 +22,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Contact
 
-If you have any questions or need further clarification about the license or the project, feel free to contact me at [untitledspacecraft.controllers@gmail.com].
+If you have any questions or need further clarification about the license or the project, feel free to contact me at untitledspacecraft.controllers@gmail.com.
