@@ -26,9 +26,9 @@
   // Alternatively, if your throttle lever isn't quite reaching zero or max,
   // you may raise the min values or lower the max values.
 
-  #define throttle_min 310
+  #define throttle_min 315
   #define throttle_max 847
-  #define throttle_pmin 276
+  #define throttle_pmin 281
   #define throttle_pmax 755
 
 
