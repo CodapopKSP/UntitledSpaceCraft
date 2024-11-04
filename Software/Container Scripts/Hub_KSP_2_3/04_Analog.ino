@@ -81,7 +81,11 @@ void readAnalog() {
   int raxis2 = (int)Analog[3] << 8 | (int)Analog[4];
   int raxis3 = (int)Analog[5] << 8 | (int)Analog[6];
 
-  Analog_axis1 = convertAnalog(raxis2);
+  if (vehicleType == rocket) {
+    Analog_axis1 = convertAnalog_flipped(raxis2);
+  } else {
+    Analog_axis1 = convertAnalog(raxis2);
+  }
   if (analog_mode == 1) {
     Analog_axis0 = convertAnalog(raxis1);
     Analog_axis2 = convertAnalog(raxis3);
