@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="148mm"
    height="210mm"
    viewBox="0 0 148 210"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="Analog_Control_Throttle_Module.svg">
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="Analog_Control_Throttle_Module.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <rect
@@ -49,24 +49,32 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="8.2467479"
-     inkscape:cy="347.30694"
+     inkscape:cx="7.7781744"
+     inkscape:cy="347.18942"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="false"
      inkscape:window-width="3840"
-     inkscape:window-height="1537"
-     inkscape:window-x="-8"
-     inkscape:window-y="292"
+     inkscape:window-height="1531"
+     inkscape:window-x="0"
+     inkscape:window-y="352"
      inkscape:window-maximized="1"
      inkscape:snap-text-baseline="true"
      inkscape:document-rotation="0"
      inkscape:snap-object-midpoints="true"
-     inkscape:snap-global="true">
+     inkscape:snap-global="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid19" />
+       id="grid19"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="mm" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -86,14 +94,45 @@
      id="layer1"
      transform="translate(0,351)">
     <g
-       id="g1104"
-       style="display:inline"
-       transform="translate(-16.663355,-16.84724)">
+       id="g1">
+      <g
+         id="g2"
+         transform="translate(-146.85722,-4.8649997)"
+         style="fill:none">
+        <circle
+           style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.05;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path1776-4-3-1-7-4-6-8-5-7-2-4-8-9-0-7-2"
+           cx="-154.8325"
+           cy="338.15994"
+           transform="scale(-1)"
+           r="2.4124992" />
+        <circle
+           style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.05;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path1776-4-3-1-7-4-6-8-5-7-2-4-8-9-0-7-2-2"
+           cx="-253.88235"
+           cy="338.15994"
+           transform="scale(-1)"
+           r="2.4124992" />
+        <circle
+           style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.05;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path1776-4-3-1-7-4-6-8-5-7-2-4-8-9-0-7-2-7"
+           cx="-154.8325"
+           cy="239.11014"
+           transform="scale(-1)"
+           r="2.4124992" />
+        <circle
+           style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.05;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path1776-4-3-1-7-4-6-8-5-7-2-4-8-9-0-7-2-0"
+           cx="-253.88239"
+           cy="239.11014"
+           transform="scale(-1)"
+           r="2.4124992" />
+      </g>
       <flowRoot
          xml:space="preserve"
          id="flowRoot1756"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-         transform="matrix(0.26458333,0,0,0.26458333,-35.23556,-455.91276)"><flowRegion
+         transform="matrix(0.26458333,0,0,0.26458333,-51.898915,-472.76)"><flowRegion
            id="flowRegion1758"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"><rect
              id="rect1760"
@@ -107,41 +146,41 @@
       <circle
          style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.0495885;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
          id="path903-0-9"
-         cx="58.096664"
-         cy="-288.93591"
+         cx="41.433308"
+         cy="-305.78314"
          r="18.475206" />
       <circle
          style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.0495885;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
          id="path903-0-9-4"
-         cx="41.871674"
-         cy="-305.16092"
+         cx="25.208319"
+         cy="-322.00815"
          r="0.97520584" />
       <circle
          style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.0495885;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
          id="path903-0-9-4-9"
-         cx="74.321671"
-         cy="-305.16092"
+         cx="57.658314"
+         cy="-322.00815"
          r="0.97520584" />
       <circle
          style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.0495885;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
          id="path903-0-9-4-3"
-         cx="41.871674"
-         cy="-272.71091"
+         cx="25.208319"
+         cy="-289.55814"
          r="0.97520584" />
       <circle
          style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.0495885;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
          id="path903-0-9-4-1"
-         cx="74.321671"
-         cy="-272.71091"
+         cx="57.658314"
+         cy="-289.55814"
          r="0.97520584" />
       <circle
          style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.0495885;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
          id="path903-0-9-1-0"
-         cx="104.4874"
-         cy="-245.86922"
+         cx="87.824043"
+         cy="-262.71646"
          r="3.3752058" />
       <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,-162.41543,-427.35372)"
+         transform="matrix(0.26458333,0,0,0.26458333,-179.07878,-444.20096)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
          id="flowRoot1950"
          xml:space="preserve"><flowRegion
@@ -155,7 +194,7 @@
              id="rect1954" /></flowRegion><flowPara
            id="flowPara1956">THROTTLE</flowPara></flowRoot>
       <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,-164.07427,-431.89429)"
+         transform="matrix(0.26458333,0,0,0.26458333,-180.73762,-448.74153)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
          id="flowRoot1950-6-3"
          xml:space="preserve"><flowRegion
@@ -169,7 +208,7 @@
              id="rect1954-6-4" /></flowRegion><flowPara
            id="flowPara1956-0-7">MIN</flowPara></flowRoot>
       <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,-141.84731,-431.89429)"
+         transform="matrix(0.26458333,0,0,0.26458333,-158.51066,-448.74153)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
          id="flowRoot1950-6-3-6"
          xml:space="preserve"><flowRegion
@@ -183,14 +222,14 @@
              id="rect1954-6-4-3" /></flowRegion><flowPara
            id="flowPara1956-0-7-5">MAX</flowPara></flowRoot>
       <rect
-         y="-306.25674"
-         x="98.940964"
+         y="-323.10397"
+         x="82.277611"
          height="12.95016"
          width="11.150159"
          id="rect1958-6"
          style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.0498403;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
       <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,-158.53992,-470.7999)"
+         transform="matrix(0.26458333,0,0,0.26458333,-175.20327,-487.64714)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
          id="flowRoot1950-3-8"
          xml:space="preserve"><flowRegion
@@ -204,26 +243,26 @@
              id="rect1954-4-9" /></flowRegion><flowPara
            id="flowPara1956-6-9">BRAKES</flowPara></flowRoot>
       <rect
-         y="-288.06009"
-         x="98.940964"
+         y="-304.90732"
+         x="82.277611"
          height="12.95016"
          width="11.150159"
          id="rect1958-6-1"
          style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.0498403;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
       <circle
          r="2.9750526"
-         cy="-241.3381"
-         cx="65.507431"
+         cy="-258.18533"
+         cx="48.844074"
          id="path1776-4-3-49"
          style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.0498948;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
       <circle
          r="2.9750526"
-         cy="-241.3381"
-         cx="45.722965"
+         cy="-258.18533"
+         cx="29.05961"
          id="path1776-4-3-49-09"
          style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.0498948;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
       <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,-206.42306,-429.80596)"
+         transform="matrix(0.26458333,0,0,0.26458333,-223.08641,-446.6532)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
          id="flowRoot1950-6-00-3"
          xml:space="preserve"><flowRegion
@@ -237,7 +276,7 @@
              id="rect1954-6-2-9" /></flowRegion><flowPara
            id="flowPara1211-8-8">MODE</flowPara></flowRoot>
       <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,-220.96095,-447.40815)"
+         transform="matrix(0.26458333,0,0,0.26458333,-237.6243,-464.25539)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
          id="flowRoot1950-6-3-64"
          xml:space="preserve"><flowRegion
@@ -251,7 +290,7 @@
              id="rect1954-6-4-4" /></flowRegion><flowPara
            id="flowPara1956-0-7-8">PLN</flowPara></flowRoot>
       <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,-220.96095,-441.13909)"
+         transform="matrix(0.26458333,0,0,0.26458333,-237.6243,-457.98633)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
          id="flowRoot1950-6-3-8"
          xml:space="preserve"><flowRegion
@@ -265,7 +304,7 @@
              id="rect1954-6-4-8" /></flowRegion><flowPara
            id="flowPara1956-0-7-7">RKT</flowPara></flowRoot>
       <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,-221.06861,-434.87003)"
+         transform="matrix(0.26458333,0,0,0.26458333,-237.73196,-451.71727)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
          id="flowRoot1950-6-3-3"
          xml:space="preserve"><flowRegion
@@ -279,8 +318,8 @@
              id="rect1954-6-4-6" /></flowRegion><flowPara
            id="flowPara1956-0-7-0">RVR</flowPara></flowRoot>
       <rect
-         y="225.78928"
-         x="-77.273155"
+         y="242.63652"
+         x="-60.609798"
          height="29.333231"
          width="45.262012"
          id="rect1958-6-8-4-1-9"
@@ -288,7 +327,7 @@
          transform="scale(-1)"
          ry="3.136193" />
       <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,-198.23176,-447.70474)"
+         transform="matrix(0.26458333,0,0,0.26458333,-214.89511,-464.55198)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
          id="flowRoot1950-6-3-64-6"
          xml:space="preserve"><flowRegion
@@ -302,7 +341,7 @@
              id="rect1954-6-4-4-9" /></flowRegion><flowPara
            id="flowPara1956-0-7-8-0">TRN</flowPara></flowRoot>
       <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,-186.00631,-447.70474)"
+         transform="matrix(0.26458333,0,0,0.26458333,-202.66966,-464.55198)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
          id="flowRoot1950-6-3-64-6-9"
          xml:space="preserve"><flowRegion
@@ -318,33 +357,34 @@
       <path
          id="path1654-5-1-0"
          style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 65.507433,-248.03229 v 3.84108 m -2.265493,-3.71254 h 4.530987" />
+         d="m 48.844078,-264.87953 v 3.84108 m -2.265493,-3.71254 h 4.530987" />
       <path
          id="path1654-5-2-2"
          style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 45.722964,-247.73941 v 3.51841 m 0,5.69571 v 3.58857 m -5.655466,-0.13232 h 5.906188 m -5.906188,-12.53812 h 5.90558 m -5.90558,6.26906 h 2.755591"
+         d="m 29.059609,-264.58665 v 3.51841 m 0,5.69571 v 3.58857 m -5.655466,-0.13232 h 5.906188 m -5.906188,-12.53812 h 5.90558 m -5.90558,6.26906 h 2.755591"
          sodipodi:nodetypes="cccccccccc" />
       <path
          id="rect1958-6-0-7-45"
          style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.0498406;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-         d="m 22.638815,-334.12784 a 5.9501052,5.9501052 0 0 1 -5.95054,5.95002 v 103.05004 a 5.9501052,5.9501052 0 0 1 5.95054,5.95002 H 125.68834 a 5.9501052,5.9501052 0 0 1 5.95054,-5.95002 v -103.05004 a 5.9501052,5.9501052 0 0 1 -5.95054,-5.95002 z" />
+         d="m 5.97546,-350.97508 a 5.9501052,5.9501052 0 0 1 -5.95054,5.95002 v 103.05004 a 5.9501052,5.9501052 0 0 1 5.95054,5.95002 h 103.04953 a 5.9501052,5.9501052 0 0 1 5.95054,-5.95002 v -103.05004 a 5.9501052,5.9501052 0 0 1 -5.95054,-5.95002 z" />
       <path
          style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 104.4874,-261.45345 v 3.13001"
+         d="m 87.824045,-278.30069 v 3.13001"
          id="path1654-5-1-0-1"
          sodipodi:nodetypes="cc" />
       <path
          id="path895-4"
          style="display:inline;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-         d="m 90.264132,-249.68033 2.82e-4,-0.001 2.295878,0.61626 v 0 z"
+         d="m 73.600777,-266.52757 2.82e-4,-10e-4 2.295878,0.61626 v 0 z"
          sodipodi:nodetypes="ccccc" />
       <path
          id="path895-4-0"
          style="display:inline;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-         d="m 118.71059,-249.68058 7e-5,2.5e-4 -2.27208,0.6088 v 0 z"
+         d="m 102.04724,-266.52782 6e-5,2.5e-4 -2.272075,0.6088 v 0 z"
          sodipodi:nodetypes="ccccc" />
       <g
-         id="g940">
+         id="g940"
+         transform="translate(-16.663355,-16.84724)">
         <flowRoot
            transform="matrix(0.26458333,0,0,0.26458333,-155.9988,-515.25666)"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
@@ -377,48 +417,15 @@
       <circle
          style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.0495884;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
          id="path903-9-5-1"
-         cx="123.08858"
-         cy="-276.6528"
+         cx="106.42522"
+         cy="-293.50003"
          r="1.4752058" />
       <circle
          style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.0495884;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
          id="path903-9-5-1-6"
-         cx="25.238569"
-         cy="-276.6528"
+         cx="8.5752144"
+         cy="-293.50003"
          r="1.4752058" />
-      <g
-         id="g1383"
-         transform="translate(-162.10933,38.62845)"
-         style="display:inline">
-        <circle
-           style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.049899;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-           id="path1776-4-3-1-7-4-6-8-5-7-2-4-0-1"
-           cx="-186.74797"
-           cy="364.80615"
-           transform="scale(-1)"
-           r="2.4075506" />
-        <circle
-           style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.049899;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-           id="path1776-4-3-1-7-4-6-8-5-7-2-4-8-9-0"
-           cx="-285.79782"
-           cy="364.80615"
-           transform="scale(-1)"
-           r="2.4075506" />
-        <circle
-           style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.049899;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-           id="path1776-4-3-1-7-4-6-8-5-7-2-4-2-7-3"
-           cx="-285.79785"
-           cy="265.75635"
-           transform="scale(-1)"
-           r="2.4075506" />
-        <circle
-           style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.049899;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
-           id="path1776-4-3-1-7-4-6-8-5-7-2-4-7-8-7"
-           cx="-186.74797"
-           cy="265.75635"
-           transform="scale(-1)"
-           r="2.4075506" />
-      </g>
     </g>
   </g>
 </svg>
