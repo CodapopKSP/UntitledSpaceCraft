@@ -151,3 +151,51 @@ int checkTrim(int trim_register, int analog_input) {
   }
   return output_clean;
 }
+
+static void sendRotationIfChanged() {
+  if (memcmp(&myRotation, &myRotationOld, sizeof(rotationMessage)) != 0) {
+    mySimpit.send(ROTATION_MESSAGE, myRotation);
+    myRotationOld = myRotation;
+  }
+}
+
+static void sendTranslationIfChanged() {
+  if (memcmp(&myTranslation, &myTranslationOld, sizeof(translationMessage)) != 0) {
+    mySimpit.send(TRANSLATION_MESSAGE, myTranslation);
+    myTranslationOld = myTranslation;
+  }
+}
+
+static void sendWheelIfChanged() {
+  if (memcmp(&myWheel, &myWheelOld, sizeof(wheelMessage)) != 0) {
+    mySimpit.send(WHEEL_MESSAGE, myWheel);
+    myWheelOld = myWheel;
+  }
+}
+
+static void sendThrottleIfChanged(int &current, int &old) {
+  if (current != old) {
+    mySimpit.send(THROTTLE_MESSAGE, current);
+    old = current;
+  }
+}
+
+static void updateAnalogValues(Analog_Message_Type AnalogMessageType, int value1, int value2, int value3) {
+  if (AnalogMessageType == ANALOG_ROTATION_MESSAGE) {
+    myRotation.yaw = value1;
+    myRotation.pitch = value2;
+    myRotation.roll = value3;
+  }
+  if (AnalogMessageType == ANALOG_TRANSLATION_MESSAGE) {
+    myTranslation.X = value1;
+    myTranslation.Y = value2;
+    myTranslation.Z = value3;
+  }
+  if (AnalogMessageType == ANALOG_WHEEL_MESSAGE) {
+    myWheel.throttle = value1;
+    myWheel.steer = value2;
+  }
+  if (AnalogMessageType == ANALOG_THROTTLE_MESSAGE) {
+    Rotation_throttle = value1;
+  }
+}
