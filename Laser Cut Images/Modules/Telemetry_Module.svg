@@ -5,7 +5,7 @@
    viewBox="0 0 148 210"
    version="1.1"
    id="svg8"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    sodipodi:docname="Telemetry_Module.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -523,16 +523,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="269.40768"
-     inkscape:cy="322.79424"
+     inkscape:cx="235.82011"
+     inkscape:cy="211.07137"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="false"
-     inkscape:window-width="2764"
-     inkscape:window-height="1528"
-     inkscape:window-x="1060"
-     inkscape:window-y="352"
+     inkscape:window-width="1920"
+     inkscape:window-height="1041"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:snap-text-baseline="true"
      inkscape:document-rotation="0"
@@ -573,176 +573,100 @@
          id="g2"
          transform="translate(-146.85722,-4.8649997)"
          style="fill:none">
-        <circle
-           style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.05;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+        <path
            id="path1776-4-3-1-7-4-6-8-5-7-2-4-8-9-0-7-2"
-           cx="-154.8325"
-           cy="338.15994"
+           style="display:inline;stroke:#0000ff;stroke-width:0.05"
            transform="scale(-1)"
-           r="2.4124992" />
-        <circle
-           style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.05;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -152.42001,338.15994 a 2.4124992,2.4124992 0 0 1 -2.41249,2.4125 2.4124992,2.4124992 0 0 1 -2.4125,-2.4125 2.4124992,2.4124992 0 0 1 2.4125,-2.4125 2.4124992,2.4124992 0 0 1 2.41249,2.4125 z" />
+        <path
            id="path1776-4-3-1-7-4-6-8-5-7-2-4-8-9-0-7-2-2"
-           cx="-253.88235"
-           cy="338.15994"
+           style="display:inline;stroke:#0000ff;stroke-width:0.05"
            transform="scale(-1)"
-           r="2.4124992" />
-        <circle
-           style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.05;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -251.46986,338.15994 a 2.4124992,2.4124992 0 0 1 -2.41249,2.4125 2.4124992,2.4124992 0 0 1 -2.4125,-2.4125 2.4124992,2.4124992 0 0 1 2.4125,-2.4125 2.4124992,2.4124992 0 0 1 2.41249,2.4125 z" />
+        <path
            id="path1776-4-3-1-7-4-6-8-5-7-2-4-8-9-0-7-2-7"
-           cx="-154.8325"
-           cy="239.11014"
+           style="display:inline;stroke:#0000ff;stroke-width:0.05"
            transform="scale(-1)"
-           r="2.4124992" />
-        <circle
-           style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.05;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -152.42001,239.11014 a 2.4124992,2.4124992 0 0 1 -2.41249,2.4125 2.4124992,2.4124992 0 0 1 -2.4125,-2.4125 2.4124992,2.4124992 0 0 1 2.4125,-2.4125 2.4124992,2.4124992 0 0 1 2.41249,2.4125 z" />
+        <path
            id="path1776-4-3-1-7-4-6-8-5-7-2-4-8-9-0-7-2-0"
-           cx="-253.88239"
-           cy="239.11014"
+           style="display:inline;stroke:#0000ff;stroke-width:0.05"
            transform="scale(-1)"
-           r="2.4124992" />
+           d="m -251.46989,239.11014 a 2.4124992,2.4124992 0 0 1 -2.4125,2.4125 2.4124992,2.4124992 0 0 1 -2.41249,-2.4125 2.4124992,2.4124992 0 0 1 2.41249,-2.4125 2.4124992,2.4124992 0 0 1 2.4125,2.4125 z" />
       </g>
-      <flowRoot
-         xml:space="preserve"
+      <path
+         style="font-size:29.3333px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';letter-spacing:0px;word-spacing:0px;fill:#ff0000;stroke-width:0"
+         d="m 289.14713,495.62798 v -18.80597 h -7.16145 v -2.52083 h 17.15883 v 2.52083 h -7.16145 v 18.80597 z m 12.14582,0 v -21.3268 h 13.33462 v 2.52083 h -10.49869 v 5.84374 h 9.78254 v 2.52083 h -9.78254 v 7.92057 h 10.49869 v 2.52083 z m 28.81767,0 h -12.36066 v -21.3268 h 2.83593 v 18.80597 h 9.52473 z m 2.23437,0 v -21.3268 h 13.33462 v 2.52083 h -10.49868 v 5.84374 h 9.78254 v 2.52083 h -9.78254 v 7.92057 h 10.49868 v 2.52083 z m 34.73304,0 H 364.2421 V 477.2517 l -5.55729,12.50389 h -1.71875 l -5.51431,-12.50389 v 18.37628 h -2.64974 v -21.3268 h 3.86718 l 5.32812,11.87368 5.14192,-11.87368 h 3.9388 z m 4.32551,0 v -21.3268 h 13.33462 v 2.52083 h -10.49868 v 5.84374 h 9.78254 v 2.52083 h -9.78254 v 7.92057 h 10.49868 v 2.52083 z m 21.44139,0 v -18.80597 h -7.16145 v -2.52083 h 17.15883 v 2.52083 h -7.16145 v 18.80597 z m 28.66012,0 h -3.68099 l -6.7604,-8.47916 h -3.23698 v 8.47916 h -2.83593 v -21.3268 h 5.49999 q 1.83333,0 3.0651,0.20052 1.24609,0.20052 2.36328,0.93099 1.11718,0.71614 1.76172,1.84765 0.65885,1.13151 0.65885,2.80729 0,2.34896 -1.1888,3.92448 -1.1888,1.57552 -3.23698,2.33463 z m -6.1302,-15.3255 q 0,-0.93099 -0.32943,-1.64714 -0.32943,-0.73047 -1.01692,-1.1888 -0.60157,-0.40104 -1.40365,-0.55859 -0.80208,-0.17188 -1.99088,-0.17188 h -2.80729 v 8.04947 h 2.49218 q 1.21745,0 2.19141,-0.21484 0.97396,-0.21484 1.66145,-0.88802 0.61589,-0.60156 0.90235,-1.43229 0.30078,-0.83073 0.30078,-1.94791 z m 22.48695,-6.0013 -7.20442,11.88801 v 9.43879 h -2.83593 v -9.13801 l -7.20442,-12.18879 h 3.15104 l 5.49999,9.41015 5.58593,-9.41015 z"
          id="flowRoot1756"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-         transform="matrix(0.26458333,0,0,0.26458333,-37.763706,-472.75999)"><flowRegion
-           id="flowRegion1758"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"><rect
-             id="rect1760"
-             width="342"
-             height="48"
-             x="282"
-             y="459.13385"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
-           id="flowPara1762"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.3333px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none">TELEMETRY</flowPara></flowRoot>
+         transform="matrix(0.26458333,0,0,0.26458333,-37.763706,-472.75999)"
+         aria-label="TELEMETRY" />
       <path
          id="rect1958-6-0-7-45"
          style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.0498406;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
          d="m 5.975461,-350.97508 a 5.9501052,5.9501052 0 0 1 -5.950541,5.95002 v 103.05004 a 5.9501052,5.9501052 0 0 1 5.950541,5.95002 H 109.02498 a 5.9501052,5.9501052 0 0 1 5.95054,-5.95002 v -103.05004 a 5.9501052,5.9501052 0 0 1 -5.95054,-5.95002 z" />
-      <rect
-         y="-264.5195"
-         x="42.874981"
-         height="12.95016"
-         width="11.150159"
+      <path
          id="rect1958-6-9-9-2"
-         style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.0498403;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
-      <rect
-         y="-264.5195"
-         x="24.774662"
-         height="12.95016"
-         width="11.150159"
+         style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.0498403"
+         d="M 42.874981,-264.5195 H 54.02514 v 12.95016 H 42.874981 Z" />
+      <path
          id="rect1958-6-9-9-4"
-         style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.0498403;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
-      <rect
-         y="-264.5195"
-         x="60.975304"
-         height="12.95016"
-         width="11.150159"
+         style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.0498403"
+         d="m 24.774662,-264.5195 h 11.150159 v 12.95016 H 24.774662 Z" />
+      <path
          id="rect1958-6-9-9-3"
-         style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.0498403;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
-      <rect
-         y="-264.5195"
-         x="79.075623"
-         height="12.95016"
-         width="11.150159"
+         style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.0498403"
+         d="m 60.975304,-264.5195 h 11.150159 v 12.95016 H 60.975304 Z" />
+      <path
          id="rect1958-6-9-9-9"
-         style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.0498403;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
-      <circle
-         style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.0495884;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.0498403"
+         d="m 79.075623,-264.5195 h 11.150158 v 12.95016 H 79.075623 Z" />
+      <path
          id="path903-0-9-2-6"
-         cx="13.393102"
-         cy="-334.61444"
-         r="1.4752058" />
-      <circle
-         style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.0495884;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.0495884"
+         d="m 14.868307,-334.61444 a 1.4752058,1.4752058 0 0 1 -1.475205,1.4752 1.4752058,1.4752058 0 0 1 -1.475206,-1.4752 1.4752058,1.4752058 0 0 1 1.475206,-1.47521 1.4752058,1.4752058 0 0 1 1.475205,1.47521 z" />
+      <path
          id="path903-0-9-2-0-5"
-         cx="-334.60724"
-         cy="-101.61457"
-         r="1.4752058"
-         transform="rotate(90)" />
-      <circle
-         style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.0495884;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.0495884"
+         transform="rotate(90)"
+         d="m -333.13203,-101.61457 a 1.4752058,1.4752058 0 0 1 -1.47521,1.47521 1.4752058,1.4752058 0 0 1 -1.4752,-1.47521 1.4752058,1.4752058 0 0 1 1.4752,-1.47521 1.4752058,1.4752058 0 0 1 1.47521,1.47521 z" />
+      <path
          id="path903-0-9-2-8-6"
-         cx="-101.60738"
-         cy="268.98575"
-         r="1.4752058"
-         transform="scale(-1)" />
-      <circle
-         style="display:inline;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.0495884;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.0495884"
+         transform="scale(-1)"
+         d="m -100.13218,268.98575 a 1.4752058,1.4752058 0 0 1 -1.4752,1.4752 1.4752058,1.4752058 0 0 1 -1.47521,-1.4752 1.4752058,1.4752058 0 0 1 1.47521,-1.47521 1.4752058,1.4752058 0 0 1 1.4752,1.47521 z" />
+      <path
          id="path903-0-9-2-02-9"
-         cx="268.99298"
-         cy="13.385884"
-         r="1.4752058"
-         transform="rotate(-90)" />
-      <rect
-         style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.0499718;stroke-miterlimit:4;stroke-dasharray:none"
+         style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.0495884"
+         transform="rotate(-90)"
+         d="m 270.46819,13.385884 a 1.4752058,1.4752058 0 0 1 -1.47521,1.475206 1.4752058,1.4752058 0 0 1 -1.4752,-1.475206 1.4752058,1.4752058 0 0 1 1.4752,-1.475205 1.4752058,1.4752058 0 0 1 1.47521,1.475205 z" />
+      <path
          id="rect1020-2-81-3"
-         width="78.250031"
-         height="51.250027"
-         x="18.37521"
-         y="-327.42511" />
-      <flowRoot
-         xml:space="preserve"
+         style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.0499718"
+         d="m 18.37521,-327.42511 h 78.25003 v 51.25003 H 18.37521 Z" />
+      <path
+         style="font-size:18.6667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';letter-spacing:0px;word-spacing:0px;fill:#ff0000;stroke-width:0"
+         d="m 281.90885,476.16496 4.57553,-13.57164 h 2.22397 l 4.57552,13.57164 h -1.90495 l -1.23047,-3.79167 h -5.18621 l -1.23047,3.79167 z m 7.7383,-5.33204 -2.09636,-6.39845 -2.08724,6.39845 z m 12.78778,5.33204 h -7.8659 v -13.57164 h 1.80469 v 11.96747 h 6.06121 z m 6.68101,-14.18231 -5.31382,17.13544 h -1.54036 l 5.28646,-17.13544 z m 11.71225,0.61067 -4.66667,13.57164 H 314.211 l -4.66668,-13.57164 h 1.9323 l 3.75521,11.26565 3.75522,-11.26565 z m 9.16929,13.57164 h -7.8659 v -13.57164 h 1.80469 v 11.96747 h 6.06121 z"
          id="flowRoot1756-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-         transform="matrix(0.26458333,0,0,0.26458333,-50.600367,-393.91988)"><flowRegion
-           id="flowRegion1758-1"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"><rect
-             id="rect1760-9"
-             width="342"
-             height="48"
-             x="282"
-             y="459.13385"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666691px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;font-variant-east-asian:normal;" /></flowRegion><flowPara
-           id="flowPara1762-7"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none">AL/VL</flowPara></flowRoot>
-      <flowRoot
-         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-50.600367,-393.91988)"
+         aria-label="AL/VL" />
+      <path
+         style="font-size:18.6667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';letter-spacing:0px;word-spacing:0px;fill:#ff0000;stroke-width:0"
+         d="m 295.00653,476.16496 h -1.80469 v -11.69403 l -3.53646,7.95705 h -1.09375 l -3.50912,-7.95705 v 11.69403 h -1.68621 v -13.57164 h 2.46095 l 3.39063,7.55601 3.27214,-7.55601 h 2.50651 z m 12.45966,0 h -2.02344 l -5.99741,-11.70314 v 11.70314 h -1.6862 v -13.57164 h 2.56121 l 5.45964,10.74612 v -10.74612 h 1.6862 z m 12.58726,-13.57164 -4.66667,13.57164 h -1.95053 l -4.66667,-13.57164 h 1.93229 l 3.75522,11.26565 3.75521,-11.26565 z m 11.81253,13.57164 h -2.34246 l -4.30209,-5.39584 h -2.0599 v 5.39584 h -1.80469 v -13.57164 h 3.50001 q 1.16667,0 1.95052,0.12761 0.79297,0.1276 1.50391,0.59245 0.71094,0.45573 1.1211,1.17578 0.41927,0.72005 0.41927,1.78646 0,1.4948 -0.75651,2.4974 -0.75651,1.00261 -2.0599,1.48568 z m -3.90105,-9.75262 q 0,-0.59245 -0.20964,-1.04818 -0.20963,-0.46484 -0.64714,-0.75651 -0.38281,-0.25521 -0.89323,-0.35547 -0.51041,-0.10937 -1.26693,-0.10937 h -1.78646 v 5.1224 h 1.58594 q 0.77474,0 1.39454,-0.13672 0.61979,-0.13672 1.05729,-0.5651 0.39193,-0.38282 0.57422,-0.91146 0.19141,-0.52865 0.19141,-1.23959 z"
          id="flowRoot1756-1-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-         transform="matrix(0.26458333,0,0,0.26458333,-32.941365,-393.60999)"><flowRegion
-           id="flowRegion1758-1-0"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"><rect
-             id="rect1760-9-6"
-             width="342"
-             height="48"
-             x="282"
-             y="459.13385"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666691px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;font-variant-east-asian:normal;" /></flowRegion><flowPara
-           id="flowPara1762-7-4"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none">MNVR</flowPara></flowRoot>
-      <flowRoot
-         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-32.941365,-393.60999)"
+         aria-label="MNVR" />
+      <path
+         style="font-size:18.6667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';letter-spacing:0px;word-spacing:0px;fill:#ff0000;stroke-width:0"
+         d="m 292.97398,464.15192 q 0.77474,0.89323 1.20313,2.21485 0.42838,1.32161 0.42838,3.01693 0,1.64974 -0.41927,2.98047 -0.41927,1.33074 -1.21224,2.23308 -0.82943,0.94792 -1.94141,1.40365 -1.10287,0.44661 -2.4336,0.44661 -1.3763,0 -2.47917,-0.46484 -1.10287,-0.46484 -1.89584,-1.38542 -0.78385,-0.90234 -1.20312,-2.22396 -0.41928,-1.32162 -0.41928,-2.98959 0,-1.71354 0.41928,-3.00782 0.42838,-1.29427 1.21224,-2.22396 0.78385,-0.90235 1.88672,-1.36719 1.11198,-0.47396 2.47917,-0.47396 1.38542,0 2.4974,0.48307 1.11198,0.48308 1.87761,1.35808 z m -0.2461,5.23178 q 0,-1.34896 -0.29166,-2.38803 -0.29167,-1.03906 -0.82032,-1.72265 -0.53776,-0.70183 -1.30338,-1.04818 -0.75652,-0.35547 -1.70444,-0.35547 -0.98437,0 -1.72265,0.34635 -0.72917,0.33724 -1.29428,1.0573 -0.53776,0.69271 -0.82943,1.74088 -0.28255,1.04818 -0.28255,2.3698 0,2.67058 1.1211,4.09246 1.12109,1.41276 3.00781,1.41276 1.88673,0 2.99871,-1.41276 1.12109,-1.42188 1.12109,-4.09246 z m 14.36461,6.78126 h -2.34245 l -4.30209,-5.39584 h -2.0599 v 5.39584 h -1.80469 v -13.57164 h 3.50001 q 1.16666,0 1.95052,0.12761 0.79297,0.1276 1.50391,0.59245 0.71094,0.45573 1.1211,1.17578 0.41927,0.72005 0.41927,1.78646 0,1.4948 -0.75652,2.4974 -0.75651,1.00261 -2.05989,1.48568 z m -3.90105,-9.75262 q 0,-0.59245 -0.20963,-1.04818 -0.20964,-0.46484 -0.64714,-0.75651 -0.38281,-0.25521 -0.89323,-0.35547 -0.51042,-0.10937 -1.26693,-0.10937 h -1.78646 v 5.1224 h 1.58594 q 0.77474,0 1.39453,-0.13672 0.6198,-0.13672 1.0573,-0.5651 0.39193,-0.38282 0.57422,-0.91146 0.1914,-0.52865 0.1914,-1.23959 z m 14.18232,5.58725 q 0,1.01172 -0.38281,1.78646 -0.38281,0.77474 -1.02995,1.27605 -0.76563,0.60156 -1.64063,0.85677 -0.875,0.24609 -2.26042,0.24609 h -3.89193 v -13.57164 h 3.60026 q 1.44922,0 2.16928,0.10026 0.72917,0.0912 1.39453,0.44662 0.72917,0.39193 1.06641,1.02995 0.33724,0.62891 0.33724,1.48568 0,0.95703 -0.51042,1.71354 -0.5013,0.75652 -1.39453,1.1849 v 0.0729 q 1.21224,0.32812 1.87761,1.20313 0.66536,0.86588 0.66536,2.16927 z m -2.51563,-6.08855 q 0,-0.49219 -0.16406,-0.84766 -0.16406,-0.36458 -0.52865,-0.57422 -0.4375,-0.24609 -0.97526,-0.30078 -0.53776,-0.0547 -1.48568,-0.0547 h -1.73177 v 3.97397 h 2.05078 q 0.84766,0 1.2487,-0.082 0.40104,-0.0911 0.82943,-0.36458 0.41016,-0.26432 0.58334,-0.69271 0.17317,-0.42839 0.17317,-1.05729 z m 0.63802,6.16147 q 0,-0.76563 -0.21875,-1.25782 -0.21875,-0.5013 -0.88411,-0.84766 -0.42839,-0.22786 -0.93881,-0.29166 -0.5013,-0.0638 -1.43099,-0.0638 h -2.05078 v 5.01302 h 1.46745 q 1.1849,0 1.86849,-0.10937 0.6836,-0.10938 1.20313,-0.46484 0.51042,-0.35547 0.7474,-0.80209 0.23697,-0.45573 0.23697,-1.17578 z m 6.34376,4.09245 v -11.96747 h -4.5573 v -1.60417 h 10.91929 v 1.60417 h -4.55729 v 11.96747 z"
          id="flowRoot1756-1-7-4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-         transform="matrix(0.26458333,0,0,0.26458333,-14.320143,-393.60999)"><flowRegion
-           id="flowRegion1758-1-0-5"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"><rect
-             id="rect1760-9-6-3"
-             width="342"
-             height="48"
-             x="282"
-             y="459.13385"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666691px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;font-variant-east-asian:normal;" /></flowRegion><flowPara
-           id="flowPara1762-7-4-0"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none">ORBT</flowPara></flowRoot>
-      <flowRoot
-         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-14.320143,-393.60999)"
+         aria-label="ORBT" />
+      <path
+         style="font-size:18.6667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';letter-spacing:0px;word-spacing:0px;fill:#ff0000;stroke-width:0"
+         d="M 291.49741,464.19749 H 285.181 v 3.82813 h 6.05209 v 1.60417 H 285.181 v 6.53517 h -1.8047 v -13.57164 h 8.12111 z m 6.35288,12.25002 q -1.19401,0 -2.08724,-0.30989 -0.89324,-0.31901 -1.52214,-0.93881 -0.71094,-0.71093 -1.00261,-1.69531 -0.29167,-0.99349 -0.29167,-2.44271 v -8.46747 h 1.80469 v 8.46747 q 0,0.9388 0.11849,1.58594 0.11849,0.63802 0.46485,1.14844 0.36458,0.54687 0.98438,0.82942 0.6289,0.28256 1.53125,0.28256 0.84766,0 1.50391,-0.28256 0.65625,-0.28255 1.02083,-0.82942 0.33724,-0.51954 0.45573,-1.14844 0.12761,-0.62891 0.12761,-1.54037 v -8.51304 h 1.80469 v 8.46747 q 0,1.41276 -0.29167,2.42448 -0.28255,1.01172 -1.00261,1.71354 -0.64713,0.62891 -1.51302,0.93881 -0.85677,0.30989 -2.10547,0.30989 z m 7.50131,-0.28255 v -13.57164 h 8.4857 v 1.60417 h -6.681 v 3.71876 h 6.22527 v 1.60417 h -6.22527 v 5.04037 h 6.681 v 1.60417 z m 18.33858,0 h -7.8659 v -13.57164 h 1.80469 v 11.96747 h 6.06121 z"
          id="flowRoot1756-1-7-4-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
-         transform="matrix(0.26458333,0,0,0.26458333,4.3408661,-393.64737)"><flowRegion
-           id="flowRegion1758-1-0-5-6"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"><rect
-             id="rect1760-9-6-3-1"
-             width="342"
-             height="48"
-             x="282"
-             y="459.13385"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666691px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;font-variant-east-asian:normal;" /></flowRegion><flowPara
-           id="flowPara1762-7-4-0-2"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none">FUEL</flowPara></flowRoot>
+         transform="matrix(0.26458333,0,0,0.26458333,4.3408661,-393.64737)"
+         aria-label="FUEL" />
     </g>
   </g>
 </svg>
