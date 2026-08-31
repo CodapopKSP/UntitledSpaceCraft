@@ -6,5 +6,6 @@ qpdf --empty --pages *.pdf -- combined.pdf
 # Add page numbers
 python3 script.py
 
+mv numbered.pdf "../../../Complete Documentation.pdf"
 
 rm combined.pdf
