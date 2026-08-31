@@ -2,7 +2,7 @@
 
 ![Animated Controller](Controller%20Animation.svg)
 
-Untitled Space Craft is a modular controller system originally developed by Codapop. 
+Untitled Space Craft is a modular controller system originally developed by Codapop. For build instructions and information, check the releases for updated documentation.
 
 ## License
 
