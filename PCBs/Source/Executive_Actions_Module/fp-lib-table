@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "USC_EasyEDA")(type "KiCad")(uri "${KIPRJMOD}/../USC_EasyEDA.pretty")(options "")(descr "Footprints imported from EasyEDA PCBs"))
+)
