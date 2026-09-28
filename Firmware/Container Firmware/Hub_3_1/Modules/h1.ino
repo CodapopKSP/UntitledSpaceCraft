@@ -57,13 +57,13 @@ void Action_Action() {
 // definitions
   const uint8_t Action_Emulation_Keys[10] = {
     Action_Group_1,
-    Action_Group_2,
-    Action_Group_3,
-    Action_Group_4,
-    Action_Group_5,
     Action_Group_6,
+    Action_Group_2,
     Action_Group_7,
+    Action_Group_3,
     Action_Group_8,
+    Action_Group_4,
     Action_Group_9,
+    Action_Group_5,
     Action_Group_10,
   };

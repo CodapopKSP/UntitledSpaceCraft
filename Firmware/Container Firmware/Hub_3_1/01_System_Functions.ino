@@ -13,21 +13,69 @@ void registerMessageChannels() {
   mySimpit.registerChannel(SCENE_CHANGE_MESSAGE);
 }
 
+// Remove every telemetry channel so we can re-register only what we need.
+void deregisterAllTelemetryChannels() {
+  mySimpit.deregisterChannel(LF_MESSAGE);
+  mySimpit.deregisterChannel(OX_MESSAGE);
+  mySimpit.deregisterChannel(SF_MESSAGE);
+  mySimpit.deregisterChannel(ELECTRIC_MESSAGE);
+  mySimpit.deregisterChannel(XENON_GAS_MESSAGE);
+  mySimpit.deregisterChannel(MONO_MESSAGE);
+  mySimpit.deregisterChannel(APSIDES_MESSAGE);
+  mySimpit.deregisterChannel(APSIDESTIME_MESSAGE);
+  mySimpit.deregisterChannel(ALTITUDE_MESSAGE);
+  mySimpit.deregisterChannel(VELOCITY_MESSAGE);
+  mySimpit.deregisterChannel(DELTAV_MESSAGE);
+  mySimpit.deregisterChannel(ORBIT_MESSAGE);
+  mySimpit.deregisterChannel(MANEUVER_MESSAGE);
+}
+
+// Register telemetry channels only for the requested LCD mode.
+void registerTelemetryChannelsForMode(byte mode) {
+  switch (mode) {
+    case 0: // Fuel page
+      mySimpit.registerChannel(LF_MESSAGE);
+      mySimpit.registerChannel(OX_MESSAGE);
+      mySimpit.registerChannel(SF_MESSAGE);
+      mySimpit.registerChannel(ELECTRIC_MESSAGE);
+      mySimpit.registerChannel(XENON_GAS_MESSAGE);
+      mySimpit.registerChannel(MONO_MESSAGE);
+      break;
+    case 1: // Altitude / velocity page
+      mySimpit.registerChannel(APSIDES_MESSAGE);
+      mySimpit.registerChannel(APSIDESTIME_MESSAGE);
+      mySimpit.registerChannel(ALTITUDE_MESSAGE);
+      mySimpit.registerChannel(VELOCITY_MESSAGE);
+      mySimpit.registerChannel(DELTAV_MESSAGE);
+      break;
+    case 2: // Maneuver page
+      mySimpit.registerChannel(APSIDES_MESSAGE);
+      mySimpit.registerChannel(APSIDESTIME_MESSAGE);
+      mySimpit.registerChannel(DELTAV_MESSAGE);
+      mySimpit.registerChannel(MANEUVER_MESSAGE);
+      break;
+    case 3: // Orbit page
+      mySimpit.registerChannel(APSIDES_MESSAGE);
+      mySimpit.registerChannel(APSIDESTIME_MESSAGE);
+      mySimpit.registerChannel(ORBIT_MESSAGE);
+      break;
+    default: // Blank / unknown page
+      break;
+  }
+}
+
+void updateTelemetrySubscriptions(byte mode, bool forceRefresh) {
+  if (!forceRefresh && mode == LCD_mode_registered) {
+    return;
+  }
+  deregisterAllTelemetryChannels();
+  registerTelemetryChannelsForMode(mode);
+  LCD_mode_registered = mode;
+}
+
 // Register telemetry channels to Simpit.
 void registerTelemetryChannels() {
-  mySimpit.registerChannel(LF_MESSAGE);
-  mySimpit.registerChannel(OX_MESSAGE);
-  mySimpit.registerChannel(SF_MESSAGE);
-  mySimpit.registerChannel(ELECTRIC_MESSAGE);
-  mySimpit.registerChannel(XENON_GAS_MESSAGE);
-  mySimpit.registerChannel(MONO_MESSAGE);
-  mySimpit.registerChannel(APSIDES_MESSAGE);
-  mySimpit.registerChannel(APSIDESTIME_MESSAGE);
-  mySimpit.registerChannel(ALTITUDE_MESSAGE);
-  mySimpit.registerChannel(VELOCITY_MESSAGE);
-  mySimpit.registerChannel(DELTAV_MESSAGE);
-  mySimpit.registerChannel(ORBIT_MESSAGE);
-  mySimpit.registerChannel(MANEUVER_MESSAGE);
+  updateTelemetrySubscriptions(LCD_mode, true);
 }
 
 // Send data to the LCD screen.
@@ -64,7 +112,7 @@ void LCD_transmission(int dspl_address, String LCD_data_register[]) {
       LCD_transmit = 0;
       if (LCD_mode_incoming != LCD_mode) {
       LCD_mode = LCD_mode_incoming;
-      mySimpit.requestMessageOnChannel(0);
+      updateTelemetrySubscriptions(LCD_mode, false);
       }
   }
 }
@@ -170,15 +218,6 @@ static void setSimpitAction_Switch(bool state, byte action, bool &flag, void (*o
   if (!state && flag) {
     onRelease(action);
     flag = false;
-  }
-}
-
-// Keyboard emulation functions for analog joysticks.
-static void setAnalogAxisKey(int axisValue, int threshold, bool positiveDir, uint8_t key, bool &flag) {
-  if (positiveDir) {
-    setKey_Switch(axisValue > threshold, key, flag);
-  } else {
-    setKey_Switch(axisValue < threshold, key, flag);
   }
 }
 

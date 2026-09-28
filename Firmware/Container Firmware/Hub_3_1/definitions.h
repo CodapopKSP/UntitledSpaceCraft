@@ -10,6 +10,7 @@
 
 #define WINDOWS 1
 #define LINUX   2
+#define MAC     3
 bool KSP2 = false;
 bool keyboardEmulation = false;
 
@@ -19,6 +20,9 @@ bool keyboardEmulation = false;
 #elif OPERATING_SYSTEM == LINUX
   #define KSP_MOD_KEY  KEY_LEFT_SHIFT
   #define KSP_MOD_KEY2 KEY_RIGHT_SHIFT
+#elif OPERATING_SYSTEM == MAC
+  #define KSP_MOD_KEY  KEY_LEFT_SHIFT
+  #define KSP_MOD_KEY2 KEY_LEFT_ALT
 #endif
 
 
@@ -127,6 +131,7 @@ bool keyboardEmulation = false;
   byte Util_Nav_Ctrl[1] = {};
   byte Util_Time_Ctrl[1] = {};
   byte Analog[8] = {};
+  byte Rotation_Throttle[9] = {};
 
   byte Action_Dspl[2] = {};
   byte Action2_Dspl[2] = {};
@@ -136,6 +141,7 @@ bool keyboardEmulation = false;
   byte EA_Groups_Dspl[1] = {};
   byte EVA_Dspl[1];
   byte EA_Control_Dspl[1] = {};
+  byte Rotation_Throttle_Dspl[1] = {};
 
   int Action_STATE;
   int Action2_STATE;
@@ -157,6 +163,7 @@ bool keyboardEmulation = false;
   int Analog_STATE;
   byte Util_Nav_STATE;
   byte Util_Time_STATE;
+  int Rotation_Throttle_STATE;
 
   int Action_LAST;
   int Action2_LAST;
@@ -178,7 +185,8 @@ bool keyboardEmulation = false;
   int Analog_LAST;
   byte Util_Nav_LAST;
   byte Util_Time_LAST;
-
+  int Rotation_Throttle_LAST;
+  
 //|-----------------------|
 //|     Miscellaneous     |
 //|-----------------------|
@@ -196,6 +204,7 @@ bool keyboardEmulation = false;
   bool On_EVA = false;
   int LCD_transmit = 0;
   byte LCD_mode = 0;
+  byte LCD_mode_registered = 255;
   String LCD_data[10] = {"0", "0", "0", "0", "0", "0", "0", "0", "0", "0"};
 
   int ControlSys_combinedBytes;
@@ -239,7 +248,7 @@ bool keyboardEmulation = false;
   bool Action_flag[10] = {false, false, false, false, false, false, false, false, false, false};
   bool Action2_flag[10] = {false, false, false, false, false, false, false, false, false, false};
   bool Action3_flag[10] = {false, false, false, false, false, false, false, false, false, false};
-
+  bool Rotation_Throttle_flag[9] = {false, false, false, false, false, false, false, false, false};
 
 //|-------------------|
 //|      Analog       |

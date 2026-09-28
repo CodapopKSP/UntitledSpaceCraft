@@ -60,8 +60,8 @@ void Navigation_Action() {
       for (int i = 0; i < 6; i++) {
         setKey(Navigation_STATE & 1<<i, Navigation_Emulation_Keys[i], Navigation_flag[i]);
       }
-      setKey_Switch(Navigation_STATE & 64, Navigation_Nav, Navigation_flag[6]);
-      setKey_Switch(Navigation_STATE & 128, Navigation_Map, Navigation_flag[7]);
+      setKey_Switch(Navigation_STATE & 64, Navigation_Map, Navigation_flag[6]);
+      setKey_Switch(Navigation_STATE & 128, Navigation_Nav, Navigation_flag[7]);
     }
   }
   Navigation_LAST = Navigation_STATE;
@@ -80,9 +80,9 @@ void Navigation_Action() {
 // definitions
   const uint8_t Navigation_Emulation_Keys[8] = {
     Navigation_Map_Return,
-    Navigation_Cycle_Ship_Up,
-    Navigation_Cycle_Map_Up,
     Navigation_Cycle_Ship_Down,
+    Navigation_Cycle_Map_Up,
+    Navigation_Cycle_Ship_Up,
     Navigation_Cycle_Map_Down,
     Navigation_Cycle_Nav,
     Navigation_Map,

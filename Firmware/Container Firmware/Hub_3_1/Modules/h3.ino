@@ -56,13 +56,13 @@ void Action3_Action() {
 // definitions
   const uint8_t Action3_Emulation_Keys[10] = {
     Action_Group_21,
-    Action_Group_22,
-    Action_Group_23,
-    Action_Group_24,
-    Action_Group_25,
     Action_Group_26,
+    Action_Group_22,
     Action_Group_27,
+    Action_Group_23,
     Action_Group_28,
+    Action_Group_24,
     Action_Group_29,
+    Action_Group_25,
     Action_Group_30,
   };

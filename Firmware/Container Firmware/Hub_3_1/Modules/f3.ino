@@ -1,9 +1,8 @@
 // Transmissions
-if (Rotation_Throttle_Con) {module_transmission(Rotation_Throttle_, Rotation, 9, NO_DISPLAY, NO_DISPLAY, NO_DISPLAY);}
 if (Rotation_Con) {module_transmission(Rotation_, Rotation, 7, NO_DISPLAY, NO_DISPLAY, NO_DISPLAY);}
 
 // Enable Action
-if (Rotation_Throttle_Con or Rotation_Con){Rotation_Action();}
+if (Rotation_Con){Rotation_Action();}
 
 // Action
 void Rotation_Action() {
@@ -12,55 +11,34 @@ void Rotation_Action() {
 
     if (!keyboardEmulation) {
       // Controller is in KSP mode
-      if (Rotation_Throttle_Con) {
-        if (Rotation[0] & 1) {
-          Trim_On = true;
-        } else {
-          Trim_On = false;
-        }
-        if (Rotation[0] & 2) {
-          vehicleType = rover;
-        } else if (Rotation[0] & 4) {
-          vehicleType = plane;
-        } else {
-          vehicleType = rocket;
-        }
-        if (Rotation[0] & 8) {
-          trimy = 0;
-          trimp = 0;
-          trimr = 0;
-        }
+      if ((Rotation[0] & 1) && !(currentActionStatus & LIGHT_ACTION)){
+        mySimpit.activateAction(LIGHT_ACTION);
       }
-      if (Rotation_Con) {
-        if ((Rotation[0] & 1) && !(currentActionStatus & LIGHT_ACTION)){
-          mySimpit.activateAction(LIGHT_ACTION);
-        }
-        if ((Rotation[0] & 1) && (currentActionStatus & LIGHT_ACTION)){
-          mySimpit.deactivateAction(LIGHT_ACTION);
-        }
-        if (Rotation[0] & 2) {
-          trimy = 0;
-          trimp = 0;
-          trimr = 0;
-        }
-        if (Rotation[0] & 4) {
-          Trim_On = true;
-        } else {
-          Trim_On = false;
-        }
-        if (Rotation[0] & 8) {
-          vehicleType = rover;
-        } else if (Rotation[0] & 16) {
-          vehicleType = plane;
-        } else {
-          vehicleType = rocket;
-        }
-        if((Rotation[0] & 32) && !(currentActionStatus & GEAR_ACTION)){
-          mySimpit.activateAction(GEAR_ACTION);
-        }
-        if(!(Rotation[0] & 32) && (currentActionStatus & GEAR_ACTION)){
-          mySimpit.deactivateAction(GEAR_ACTION);
-        }
+      if ((Rotation[0] & 1) && (currentActionStatus & LIGHT_ACTION)){
+        mySimpit.deactivateAction(LIGHT_ACTION);
+      }
+      if (Rotation[0] & 2) {
+        trimy = 0;
+        trimp = 0;
+        trimr = 0;
+      }
+      if (Rotation[0] & 4) {
+        Trim_On = true;
+      } else {
+        Trim_On = false;
+      }
+      if (Rotation[0] & 8) {
+        vehicleType = rover;
+      } else if (Rotation[0] & 16) {
+        vehicleType = plane;
+      } else {
+        vehicleType = rocket;
+      }
+      if((Rotation[0] & 32) && !(currentActionStatus & GEAR_ACTION)){
+        mySimpit.activateAction(GEAR_ACTION);
+      }
+      if(!(Rotation[0] & 32) && (currentActionStatus & GEAR_ACTION)){
+        mySimpit.deactivateAction(GEAR_ACTION);
       }
     } else {
       // Controller is in Keyboard Emulation mode
@@ -110,18 +88,15 @@ void Rotation_Action() {
       mySimpit.send(ROTATION_MESSAGE, myRotation);
       myRotationOld = myRotation;
     }
-    if (Rotation_Throttle_Con) {
-      sendThrottleIfChanged(Rotation_throttle, Rotation_throttleOld);
-    }
 
     sendWheelIfChanged();
   } else {
-    setAnalogAxisKey(Rotation_axis2, deadZone_max, true,  Rotation_Twist_Right,   Rotation_flag[6]);
-    setAnalogAxisKey(Rotation_axis2, deadZone_min, false, Rotation_Twist_Left,    Rotation_flag[7]);
-    setAnalogAxisKey(Rotation_axis1, deadZone_max, true,  Rotation_Forward,       Rotation_flag[8]);
-    setAnalogAxisKey(Rotation_axis1, deadZone_min, false, Rotation_Backward,      Rotation_flag[9]);
-    setAnalogAxisKey(Rotation_axis0, deadZone_max, true,  Rotation_Right,         Rotation_flag[10]);
-    setAnalogAxisKey(Rotation_axis0, deadZone_min, false, Rotation_Left,          Rotation_flag[11]);
+    setKey(Rotation_axis2 > keyboardEmulation_threshold, Rotation_Twist_Right, Rotation_flag[6]);
+    setKey(Rotation_axis2 < -keyboardEmulation_threshold, Rotation_Twist_Left, Rotation_flag[7]);
+    setKey(Rotation_axis1 > keyboardEmulation_threshold, Rotation_Backward, Rotation_flag[8]);
+    setKey(Rotation_axis1 < -keyboardEmulation_threshold, Rotation_Forward, Rotation_flag[9]);
+    setKey(Rotation_axis0 > keyboardEmulation_threshold, Rotation_Right, Rotation_flag[10]);
+    setKey(Rotation_axis0 < -keyboardEmulation_threshold, Rotation_Left, Rotation_flag[11]);
   }
 }
 

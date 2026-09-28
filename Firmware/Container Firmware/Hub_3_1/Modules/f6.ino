@@ -8,6 +8,7 @@ if (Throttle_Con){Throttle_Action();}
 void Throttle_Action() {
   if (Throttle[0] != Throttle_STATE) {
     Throttle_STATE = Throttle[0];
+
     if (!keyboardEmulation) {
       // Controller is in KSP mode
       if (Throttle[0] & 1) {
@@ -15,17 +16,23 @@ void Throttle_Action() {
       } else {
         throttle_pcont = false;
       }
-      if (Throttle[0] & 2) {
-        throttle = 0;
-      }
-      sendThrottleIfChanged(throttle, throttleOld);
+
     } else {
       // Controller is in Keyboard Emulation mode
       setSimpitAction_Switch(Throttle[0] & 1, Throttle_Precision, Throttle_flag[0], tapKey, tapKey);
       setSimpitAction(Throttle[0] & 2, Throttle_Min, Throttle_flag[1], tapKey);
-      setAnalogAxisKey(throttle, throttle_min+100, true,  Throttle_Forward,   Throttle_flag[2]);
+      setKey(throttle > throttle_min + 100, Throttle_Forward, Throttle_flag[2]);
     }
   }
+
+  // Send analog throttle changes regardless of button-state changes
+  if (!keyboardEmulation) {
+    if (Throttle[0] & 2) {
+      throttle = 0;
+    }
+    mySimpit.send(THROTTLE_MESSAGE, throttle);
+  }
+
   Throttle_LAST = Throttle_STATE;
 }
 

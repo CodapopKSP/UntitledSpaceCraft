@@ -4,7 +4,8 @@
 
   /*
   This determines the OS of the host computer. This mostly affects modifier keys.
-  It is set to WINDOWS by default.
+  Valid values are WINDOWS, LINUX, and MAC.
+  The generator sets this from the computer that downloads the firmware.
   */
 
   #define OPERATING_SYSTEM LINUX
@@ -79,6 +80,7 @@
   #define deadZone_max 557
   #define maxVolt_ 1020
   #define minVolt_ 3
+  #define keyboardEmulation_threshold 20000
 
 
 //|-----------------------|

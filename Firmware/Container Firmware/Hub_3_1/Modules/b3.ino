@@ -34,7 +34,7 @@ void Navigation_Time_Action() {
       for (int i = 0; i < 7; i++) {
         setKey(Navigation_Time_STATE & 1<<i, Navigation_Time_Emulation_Keys[i], Navigation_Time_flag[i]);
       }
-      setKey_Switch(Navigation_Time_STATE & 128, Navigation_Map, Navigation_Time_flag[7]);
+      setKey_Switch(Navigation_Time_STATE & 128, Navigation_Time_List[7], Navigation_Time_flag[7]);
     }
   }
   Navigation_Time_LAST = Navigation_Time_STATE;
